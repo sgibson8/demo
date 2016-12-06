@@ -1,3 +1,3 @@
-# Demo Project README
+This is a test file for GIT.
 
-This is a simple readme file.
+Example of a test file.
